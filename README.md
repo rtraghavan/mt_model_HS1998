@@ -1,5 +1,5 @@
 # MT_model
-MATLAB and Python Implementations of the Heeger and Simoncelli 1998 MT model. 
+MATLAB and forthcoming Python Implementations of the Heeger and Simoncelli 1998 MT model. 
 
 # Directory organization
 - the original code available at the Simoncelli lab's [NYU LCV website](https://www.cns.nyu.edu/~lcv/MTmodel/). 
@@ -7,4 +7,4 @@ MATLAB and Python Implementations of the Heeger and Simoncelli 1998 MT model.
     - MEX c programs updated for contemporary C
     - smaller performance enhancements
     - suggestions for future improvements (parallel processing etc.)
-- ./python - python version, implemented using Keras with a pytorch backend
+- ./python - python version, forthcoming implementation implemented using Keras with a pytorch backend
